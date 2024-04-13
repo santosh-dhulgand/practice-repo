@@ -7,6 +7,10 @@ public class B {
 		System.out.println("hello all");
 		System.out.println("code by Dev1");
 		
+		int a = 10 ;
+		int b = 20 ;
+		System.out.println(a+b);
+		
 	}
 
 }
